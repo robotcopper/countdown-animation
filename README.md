@@ -6,6 +6,14 @@ This project generates a countdown timer with a dynamic color transition from gr
     <img src="assets/countdown.gif">
 </p>
 
+# Table of Contents
+
+1. [Features](#features)
+2. [Requirements](#requirements)
+3. [Usage](#usage)
+4. [Example Countdown (100 seconds)](#example-countdown-100-seconds)
+5. [License](#license)
+
 ## Features:
 - Customizable countdown range.
 - Numbers transition smoothly from green to red.
@@ -39,6 +47,10 @@ This project generates a countdown timer with a dynamic color transition from gr
    ```bash
    python countdown.py
    ```
+
+## Example Countdown (100 seconds): 
+A pre-configured countdown of 100 seconds (from 100 to 000) is already available. Simply run the default script.
+The resulting video is pre-generated and available in the `assets` folder.
 
 ## License
 
