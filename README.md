@@ -2,7 +2,9 @@
 
 This project generates a countdown timer with a dynamic color transition from green to red. The timer text is generated as an image with the number portion changing color, and a video is created from these images.
 
-![alt text](assets/countdown.gif)
+<p align="center">
+    <img src="assets/countdown.gif">
+</p>
 
 ## Features:
 - Customizable countdown range.
