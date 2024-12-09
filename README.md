@@ -40,7 +40,7 @@ This project generates a countdown timer with a dynamic color transition from gr
 1. Clone the repository:
    ```bash
    git clone https://github.com/robotcopper/countdown-animation.git
-   cd countdown-timer
+   cd countdown-animation
    ```
 
 2. Run the script:
